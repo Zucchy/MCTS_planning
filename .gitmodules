@@ -1,3 +1,9 @@
 [submodule "pomcp_mrf_ros"]
 	path = pomcp_mrf_ros
 	url = https://github.com/kriato/pomcp_mrf_ros
+[submodule "environment_model_learning"]
+	path = environment_model_learning
+	url = https://github.com/Zucchy/environment_model_learning.git
+[submodule "state_variable_relationships_learning"]
+	path = state_variable_relationships_learning
+	url = https://github.com/Zucchy/state_variable_relationships_learning.git
