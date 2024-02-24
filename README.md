@@ -1,13 +1,13 @@
 # MCTS_planning
 
-This repository collects the source code related to the learning methodologies presented published papers and in the thesis. In particular,
+This repository collects the source code related to the learning methodologies presented in published papers and in the PhD thesis. In particular,
 - Learning state-variable relationships in POMCP
 - The application of the learning algorithms to robotic platforms
 - Learning the environment model in MCTS-based planning.
 
-The methodologies for learning state-variable relationships in POMCP was firstly published in "Learning state-variable relationships for improving POMCP performance"[1].
-The application of the learning algorithms to robotic platforms was outlined in "Learning State-Variable Relationships in POMCP: A Framework for Mobile Robots"
-Finally, the approach to learn the model of the environment in MCTS-based planning was introduced in "Online model adaptation in Monte Carlo tree search planning" 
+The methodologies for learning state-variable relationships in POMCP was first published in "Learning state-variable relationships for improving POMCP performance"[1].
+The application of the learning algorithms to robotic platforms was outlined in "Learning State-Variable Relationships in POMCP: A Framework for Mobile Robots"[2].
+Finally, the approach to learn the model of the environment in MCTS-based planning was introduced in "Online model adaptation in Monte Carlo tree search planning"[3]. 
 
 [1] M. Zuccotto, A. Castellini, and A. Farinelli. Learning state-variable relationships for improving POMCP performance. In Proceedings of the 37th ACM/SIGAPP Symposium on Applied Computing (SAC), pages 739–747. Association for Computing Machinery (ACM), 2022a. doi: 10.1145/3477314.3507049.
 
