@@ -1,0 +1,3 @@
+[submodule "pomcp_mrf_ros"]
+	path = pomcp_mrf_ros
+	url = https://github.com/kriato/pomcp_mrf_ros
